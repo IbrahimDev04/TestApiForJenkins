@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F0F6DB-8238-41E1-A432-0B0423A44EC4}|TestApi\\TestApi.csproj|c:\\users\\ibrah\\onedrive\\desktop\\coding\\c#\\testapi\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{02F0F6DB-8238-41E1-A432-0B0423A44EC4}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|c:\\users\\ibrah\\onedrive\\desktop\\coding\\c#\\testapi\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "TestApi\\Dockerfile",
               "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\TestApi\\Dockerfile",
               "RelativeToolTip": "TestApi\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-06-30T19:48:20.715Z",
               "EditorCaption": ""
