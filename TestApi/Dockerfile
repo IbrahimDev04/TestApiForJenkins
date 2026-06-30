@@ -2,28 +2,28 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Layihə faylını kopyala
+# Project faylını kopyala və restore et
 COPY *.csproj ./
-
-# Paketləri bərpa et
 RUN dotnet restore
 
-# Bütün layihəni kopyala
-COPY . .
+# Layihənin qalan hissəsini kopyala
+COPY . ./
 
-# Publish et
-RUN dotnet publish \
-    -c Release \
-    -o /app/publish
+# Publish
+RUN dotnet publish -c Release -o /app/publish
 
-# Runtime mərhələsi
+# Runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 
 WORKDIR /app
 
+# Tətbiqin 8081 portunda dinləməsini təmin et
+ENV ASPNETCORE_URLS=http://+:8081
+
+EXPOSE 8081
+
+# Publish olunmuş faylları kopyala
 COPY --from=build /app/publish .
 
-EXPOSE 80
-EXPOSE 443
-
+# Tətbiqi işə sal
 ENTRYPOINT ["dotnet", "TestApi.dll"]
