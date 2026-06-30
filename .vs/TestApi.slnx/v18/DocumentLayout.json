@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|c:\\users\\ibrah\\onedrive\\desktop\\coding\\c#\\testapi\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|c:\\users\\ibrah\\onedrive\\desktop\\coding\\c#\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|c:\\users\\ibrah\\onedrive\\desktop\\coding\\c#\\testapi\\testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|solutionrelative:testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|c:\\users\\ibrah\\onedrive\\desktop\\coding\\c#\\testapi\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{93CAC9A8-2A08-6E1E-2033-C9344F72219E}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\TestApi\\Program.cs",
               "RelativeDocumentMoniker": "TestApi\\Program.cs",
               "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\TestApi\\Program.cs",
               "RelativeToolTip": "TestApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T21:26:48.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\TestApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TestApi\\Properties\\launchSettings.json",
@@ -47,18 +47,17 @@
               "RelativeToolTip": "TestApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAACQAAAAAAAAAAAAAwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T20:22:05.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T20:22:05.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\TestApi\\Dockerfile",
               "RelativeDocumentMoniker": "TestApi\\Dockerfile",
               "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Desktop\\Coding\\C#\\TestApi\\TestApi\\Dockerfile",
               "RelativeToolTip": "TestApi\\Dockerfile",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-06-30T19:48:20.715Z",
               "EditorCaption": ""
